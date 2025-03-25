@@ -118,10 +118,8 @@ def get_agent():
                 2. If you find relevant codes, clearly present them with the code and description to the user.
                 3. You must ALWAYS provide a Final Answer after using tools.
                 4. Keep your responses focused on providing accurate medical coding information.
-                5. Format your Final Answer clearly and directly, including the codes and their descriptions.
-                6. Even for complex clinical scenarios or when you can't find exact matches, provide your best recommendation.
-                7. suggest some relevant codes for the user's query.
-                8. markdown format the response.
+                5. Format your Final Answer clearly and directly, including the codes and their descriptions in markdown format.
+                6. suggest some relevant codes for the user's query.
     TOOLS:
     ------
 
