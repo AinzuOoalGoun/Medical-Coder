@@ -8,5 +8,4 @@ streamlit
 langsmith
 python-dotenv
 pinecone
-langgraph-community
 
