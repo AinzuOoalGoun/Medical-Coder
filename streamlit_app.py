@@ -109,7 +109,7 @@ def get_agent():
     model = get_model()
     
     template = """
-                You are a medical coding assistant designed to accurately identify ICD-10 codes with descriptions from clinical descriptions.
+                You are a medical coding assistant chatbot designed to accurately identify ICD-10 codes with descriptions from clinical descriptions.
                 
                 Your primary task is to search and provide accurate medical codes based on the user's query.
                 
