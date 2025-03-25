@@ -122,7 +122,7 @@ def get_agent():
                 6. Even for complex clinical scenarios or when you can't find exact matches, provide your best recommendation.
                 7. DO NOT start your response with phrases like "You asked" or "Your query".
                 8. suggest some relevant codes for the user's query.
-                
+                9. final response shoud be in markdown formet.
     TOOLS:
     ------
 
