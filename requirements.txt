@@ -1,0 +1,12 @@
+langchain-google-genai
+pinecone-client
+langchain-pinecone
+langgraph
+langchain
+langchain-core
+streamlit
+langsmith
+python-dotenv
+pinecone
+langgraph-community
+
