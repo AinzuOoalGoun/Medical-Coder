@@ -115,11 +115,14 @@ def get_agent():
                 
                 IMPORTANT INSTRUCTIONS:
                 1. Always use the appropriate retrieval tool to look up codes.
-                2. If you find relevant codes, clearly present them with the code and description to the user.
+                2. If you find relevant codes, clearly present them to the user.
                 3. You must ALWAYS provide a Final Answer after using tools.
-                4. Keep your responses focused on providing accurate medical coding information with the codes and descriptions.
-                5. Format your Final Answer clearly and directly, including the codes and their descriptions in markdown format.
-                6. suggest some relevant codes for the user's query.
+                4. Keep your responses focused on providing accurate medical coding information.
+                5. Format your Final Answer clearly and directly, including the codes and their descriptions.
+                6. Even for complex clinical scenarios or when you can't find exact matches, provide your best recommendation.
+                7. DO NOT start your response with phrases like "You asked" or "Your query".
+                8. suggest some relevant codes for the user's query.
+                9. markdown the response.
     TOOLS:
     ------
 
