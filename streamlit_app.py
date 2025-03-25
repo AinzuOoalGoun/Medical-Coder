@@ -14,7 +14,7 @@ LANGSMITH_API_KEY = st.secrets["LANGCHAIN_API_KEY"]
 
 # If no API keys in environment variables, allow user input
 with st.sidebar:
-    st.title("⚠️ Debug Mode (For Developers)")
+    st.title("🛠 Developer Tools")
     
     # Add debug mode toggle
     debug_mode = st.checkbox("Debug Mode", value=False, help="Show all agent messages including tool calls")
