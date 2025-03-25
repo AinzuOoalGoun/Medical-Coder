@@ -28,7 +28,7 @@ This will start the web interface on http://localhost:8501
 ## Features
 
 - ChatGPT-like user interface
-- Medical coding assistance for ICD and CPT codes
+- Medical coding assistance for ICD codes
 - Chat history persistence
 - Thread-based conversations
 
@@ -36,7 +36,7 @@ This will start the web interface on http://localhost:8501
 
 1. Type your medical coding query in the text input field
 2. Click "Send" or press Enter to submit
-3. The AI will respond with relevant ICD-10 or CPT codes
+3. The AI will respond with relevant ICD-10 codes
 4. You can click on example queries in the sidebar for quick access
 5. Your conversation history is maintained during the session
 6. View real-time metrics of your coding queries
