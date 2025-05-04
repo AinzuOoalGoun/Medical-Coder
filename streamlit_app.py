@@ -116,6 +116,8 @@ def get_agent():
                 Provide 3 relevant codes for the user's query.
 
                 provide a brief explanation of the codes and their descriptions in markdown format.
+
+                check memory before calling tools to see do you need tool to ans given query
     TOOLS:
     ------
 
