@@ -5,4 +5,4 @@ langchain
 langchain-core
 streamlit
 pinecone
-
+nest-asyncio
